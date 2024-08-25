@@ -7167,7 +7167,7 @@ dependencies = [
 [[package]]
 name = "xcb-imdkit"
 version = "0.3.0"
-source = "git+https://github.com/wez/xcb-imdkit-rs.git?rev=358e226573461fe540efb920e2aad740e3c6fab1#358e226573461fe540efb920e2aad740e3c6fab1"
+source = "git+https://github.com/pjm0616/xcb-imdkit-rs.git?rev=84338f1599390489f754e80b45548c495a092687#84338f1599390489f754e80b45548c495a092687"
 dependencies = [
  "bitflags 1.3.2",
  "cc",
